@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngangavic/my-wifi-api.git"
+    "url": "git+https://github.com/ngangavic/node-environment.git"
   },
   "keywords": [
     "ENV",
@@ -22,9 +22,9 @@
   "author": "ngangavic",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/ngangavic/my-wifi-api/issues"
+    "url": "https://github.com/ngangavic/node-environment.git/issues"
   },
-  "homepage": "https://github.com/ngangavic/my-wifi-api#readme",
+  "homepage": "https://github.com/ngangavic/node-environment.git#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
     "express": "^4.18.2"
